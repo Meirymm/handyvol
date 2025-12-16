@@ -1,0 +1,219 @@
+// Общие
+"app_title" = "Платформа Handyvol";
+"loading_profile" = "Загрузка профиля...";
+"profile" = "Профиль";
+
+// Аутентификация
+"login_button" = "Войти";
+"register_title" = "Регистрация";
+"email_placeholder" = "Электронная почта";
+"password_placeholder" = "Пароль (мин. 8 символов)";
+"register_button" = "Зарегистрироваться";
+"role_picker_title" = "Выбор роли:";
+"have_account_prompt" = "Уже есть аккаунт? Войти";
+"no_account_prompt" = "Нет аккаунта? Зарегистрироваться";
+
+// Роли
+"role_volunteer" = "Волонтер";
+"role_organizer" = "Организатор";
+
+// Сообщения об ошибках
+"password_safety_error" = "Пароль не соответствует требованиям: мин. 8 символов, буквы, цифры и символы.";
+"registration_failed" = "Ошибка регистрации";
+"login_failed" = "Ошибка входа: Неверный email или пароль.";
+"logout_failed" = "Ошибка выхода";
+
+// Настройки языка
+"language_settings_title" = "Настройки языка";
+"choose_language" = "Выбрать язык";
+"restart_required_message" = "Для полного изменения языка требуется перезапуск приложения.";
+
+// Панель Волонтера
+"volunteer_panel_title" = "Панель Волонтера";
+"search_events" = "Поиск Мероприятий";
+"my_applications" = "Мои Заявки";
+"loading_events" = "Загрузка мероприятий...";
+"no_events_found" = "Мероприятий не найдено. Попробуйте изменить фильтры.";
+"filters_button" = "Фильтры";
+
+// Панель Организатора
+"organizer_panel_title" = "Панель Организатора";
+"organizer_events" = "Мои Мероприятия";
+"volunteer_applications" = "Заявки Волонтеров";
+
+// Админ-панель
+"admin_panel_title" = "Админ-панель";
+"admin_dashboard" = "Панель";
+"user_moderation" = "Модерация Пользователей";
+"event_moderation" = "Модерация Мероприятий";
+
+// Профиль и Настройки
+"logout_button" = "Выйти";
+"account_settings" = "Настройки аккаунта";
+"app_settings" = "Настройки приложения";
+"notifications_settings" = "Уведомления";
+"guest_user" = "Гость";
+
+// Детали Мероприятия и Заявки
+"event_date" = "Дата:";
+"event_location" = "Местоположение:";
+"event_description" = "Описание мероприятия";
+"checking_status" = "Проверка статуса заявки...";
+"application_pending" = "Заявка на рассмотрении";
+"application_approved" = "Заявка одобрена";
+"apply_button" = "Подать заявку";
+"application_error" = "Ошибка заявки";
+"event_closed" = "Мероприятие закрыто для заявок";
+
+// Создание Мероприятия (Организатор)
+"create_event_title" = "Создание Мероприятия";
+"event_details" = "Основные данные";
+"event_title_placeholder" = "Название мероприятия";
+"event_location_placeholder" = "Местоположение (Город, Парк)";
+"event_description_placeholder" = "Описание (не менее 50 символов)";
+"event_schedule_tags" = "Расписание и Теги";
+"event_date_label" = "Дата";
+"select_tags_label" = "Выберите теги (мин. 1)";
+"create_event_button" = "Создать Мероприятие";
+"saving_event" = "Сохранение...";
+"close_button" = "Закрыть";
+
+// Ошибки сервиса
+"auth_required_error" = "Требуется авторизация для выполнения действия.";
+"data_integrity_error" = "Пожалуйста, заполните все обязательные поля.";
+"event_creation_failed" = "Ошибка создания мероприятия";
+
+// Вспомогательные для поиска (SearchBar, FilterView)
+"search_placeholder" = "Поиск по названию...";
+"search_button_text" = "Искать";
+"location_filter_title" = "Местоположение";
+"location_filter_placeholder" = "Город или район";
+"tags_filter_title" = "Теги";
+"filters_title" = "Фильтры";
+"apply_filters_button" = "Применить фильтры";
+"reset_filters_button" = "Сбросить";
+
+
+"no_events_created" = "Вы еще не создали ни одного мероприятия.";
+"status" = "Статус";
+"management" = "Управление";
+"manage_applications" = "Управление заявками";
+"close_event_button" = "Закрыть мероприятие";
+"no_applications_yet" = "Пока нет ни одной заявки волонтеров.";
+"applications_for" = "Заявки для";
+"applied_on" = "Подана:";
+"accept_button" = "Принять";
+"reject_button" = "Отклонить";
+"Pending" = "На рассмотрении";
+"Approved" = "Одобрено";
+"Rejected" = "Отклонено";
+"volunteer_data_private" = "Волонтер";
+
+"no_users_found" = "Пользователи не найдены.";
+"role_admin" = "Админ";
+"role_organizer" = "Организатор";
+"role_volunteer" = "Волонтер";
+"role_picker_title" = "Роль:";
+"user_moderation" = "Модерация Пользователей";
+"event_moderation" = "Модерация Мероприятий";
+"admin_panel_title" = "Админ-панель";
+
+"event_details" = "Детали мероприятия";
+"title_placeholder" = "Название мероприятия";
+"description_placeholder" = "Описание, задачи, требования";
+"date_label" = "Дата проведения";
+"location_placeholder" = "Место проведения";
+"volunteer_requirements" = "Требования к волонтерам";
+"required_volunteers" = "Требуется волонтеров";
+"create_event_title" = "Создать Мероприятие";
+"create_button" = "Создать";
+
+"my_events" = "Мои мероприятия";
+"browse_events_tab" = "Поиск";
+"notifications_tab" = "Уведомления";
+"profile_tab" = "Профиль";
+"volunteer_panel_title" = "Панель Волонтера";
+"user_moderation_title" = "Имя модерации пользователя";
+"all_users_title" = "Список пользователей";
+"change_role_button" = "Изменить роль";
+"role_cannot_be_changed" = "Нельзя поменять роль";
+
+"logged_in_as" = "Вошел в систему как";
+"receive_notifications_toggle" = "Получать уведомления";
+"system_permission_status" = "Статус системных разрешений";
+"request_notifications_permission" = "Запросить разрешение на уведомление";
+"send_test_notification" = "Отправить уведомление о тестировании";
+"language_select_label" = "Выберите язык";
+"volunteer_profile_title" = "Профиль волонтера";
+"no_notifications_yet" = "Пока нет уведомлений";
+"recent_notifications" = "Недавние уведомления";
+"organizer_profile_title" = "Страница организатора";
+"manage_users" = "Управление пользователями";
+"view_statistics" = "Просмотр статистики";
+
+/* Statistics */
+"statistics" = "Статистика";
+"user_statistics" = "Статистика пользователей";
+"event_statistics" = "Статистика событий";
+"application_statistics" = "Статистика заявок";
+"total_users" = "Всего пользователей";
+"admins" = "Администраторы";
+"organizers" = "Организаторы";
+"volunteers" = "Волонтеры";
+"total_events" = "Всего событий";
+"total_applications" = "Всего заявок";
+"pending_applications" = "Ожидающие заявки";
+"approved_applications" = "Одобренные заявки";
+
+"NOTIFICATION_SETTINGS" = "НАСТРОЙКИ УВЕДОМЛЕНИЙ";
+"apply_for_event" = "Подать заявку на участие в мероприятии";
+
+"my_events" = "Мои мероприятия";
+"create_event" = "Создать";
+"edit_event_title" = "Редактировать мероприятие";
+"save_button" = "Сохранить";
+"delete_button" = "Удалить";
+"cancel_button" = "Отмена";
+"ok_button" = "OK";
+"retry_button" = "Повторить";
+"edit_button" = "Изменить";
+
+"no_events_yet" = "Пока нет мероприятий";
+"create_first_event" = "Создайте первое мероприятие";
+"loading_events" = "Загрузка мероприятий...";
+"event_updated_success" = "Мероприятие успешно обновлено";
+"delete_event_confirmation" = "Удалить мероприятие";
+"delete_event_message" = "Вы уверены, что хотите удалить это мероприятие? Это действие нельзя отменить.";
+
+"search_placeholder" = "Поиск мероприятий...";
+"no_events_found" = "Мероприятия не найдены";
+"clear_filters" = "Очистить фильтры";
+"clear_all" = "Очистить все";
+
+"apply_filters_button" = "Применить фильтры";
+"reset_filters_button" = "Сбросить";
+"close_button" = "Закрыть";
+"filters_button" = "Фильтры";
+"filters_title" = "Фильтры";
+
+"location_filter_title" = "Локация";
+"location_filter_placeholder" = "Введите локацию";
+"tags_filter_title" = "Категории";
+
+// Tags
+"General" = "Общее";
+"ecology" = "Экология";
+"children" = "Дети";
+"sport" = "Спорт";
+"education" = "Образование";
+"health" = "Здоровье";
+"culture" = "Культура";
+
+"user_not_authenticated" = "Пользователь не авторизован";
+
+"event_details_title" = "Детали события";
+"description_label" = "Описание";
+"tags_label" = "Теги";
+"apply_button_text" = "Подать заявку на событие";
+"applied_pending_text" = "Заявка подана (Ожидает)";
+"processing_application" = "Обработка заявки...";

@@ -1,0 +1,219 @@
+// Общие
+"app_title" = "Handyvol платформасы";
+"loading_profile" = "Профиль жүктелуде...";
+"profile" = "Профиль";
+
+// Аутентификация
+"login_button" = "Кіру";
+"register_title" = "Тіркеу";
+"email_placeholder" = "Электрондық пошта";
+"password_placeholder" = "Құпия сөз (мин 8 таңба)";
+"register_button" = "Тіркелу";
+"role_picker_title" = "Рөлді таңдау:";
+"have_account_prompt" = "Аккаунт бар ма? Кіру";
+"no_account_prompt" = "Аккаунт жоқ па? Тіркелу";
+
+// Роли
+"role_volunteer" = "Ерікті";
+"role_organizer" = "Ұйымдастырушы";
+
+// Сообщения об ошибках
+"password_safety_error" = "Құпия сөз талаптарға сай емес: мин 8 таңба, әріп, сан және символ.";
+"registration_failed" = "Тіркеу қатесі";
+"login_failed" = "Кіру қатесі: Электрондық пошта немесе құпия сөз қате.";
+"logout_failed" = "Шығу қатесі";
+
+// Настройки языка
+"language_settings_title" = "Тіл параметрлері";
+"choose_language" = "Тілді таңдау";
+"restart_required_message" = "Тілді толық өзгерту үшін қолданбаны қайта іске қосу қажет.";
+
+// Панель Волонтера
+"volunteer_panel_title" = "Ерікті панелі";
+"search_events" = "Іс-шараларды іздеу";
+"my_applications" = "Менің өтінімдерім";
+"loading_events" = "Іс-шаралар жүктелуде...";
+"no_events_found" = "Іс-шаралар табылмады. Сүзгілерді өзгертіп көріңіз.";
+"filters_button" = "Сүзгілер";
+
+// Панель Организатора
+"organizer_panel_title" = "Ұйымдастырушы панелі";
+"organizer_events" = "Менің іс-шараларым";
+"volunteer_applications" = "Еріктілердің өтінімдері";
+
+// Админ-панель
+"admin_panel_title" = "Әкімшілік панелі";
+"admin_dashboard" = "Басқару тақтасы";
+"user_moderation" = "Қолданушы модерациясы";
+"event_moderation" = "Іс-шара модерациясы";
+
+// Профиль и Настройки
+"logout_button" = "Шығу";
+"account_settings" = "Аккаунт параметрлері";
+"app_settings" = "Қолданба параметрлері";
+"notifications_settings" = "Хабарландырулар";
+"guest_user" = "Қонақ";
+
+// Детали Мероприятия и Заявки
+"event_date" = "Күні:";
+"event_location" = "Орналасқан жері:";
+"event_description" = "Іс-шара сипаттамасы";
+"checking_status" = "Өтінім мәртебесін тексеру...";
+"application_pending" = "Өтінім қаралуда";
+"application_approved" = "Өтінім мақұлданды";
+"apply_button" = "Өтінім жіберу";
+"application_error" = "Өтінім қатесі";
+"event_closed" = "Іс-шараға өтінімдер қабылдау тоқтатылды";
+
+// Создание Мероприятия (Ұйымдастырушы)
+"create_event_title" = "Іс-шара құру";
+"event_details" = "Негізгі деректер";
+"event_title_placeholder" = "Іс-шара атауы";
+"event_location_placeholder" = "Орналасқан жері (Қала, Саябақ)";
+"event_description_placeholder" = "Сипаттама (мин 50 таңба)";
+"event_schedule_tags" = "Кесте және Тегтер";
+"event_date_label" = "Күні";
+"select_tags_label" = "Тегтерді таңдау (мин 1)";
+"create_event_button" = "Іс-шара құру";
+"saving_event" = "Сақтау...";
+"close_button" = "Жабу";
+
+// Ошибки сервиса
+"auth_required_error" = "Бұл әрекетті орындау үшін авторизация қажет.";
+"data_integrity_error" = "Барлық міндетті өрістерді толтырыңыз.";
+"event_creation_failed" = "Іс-шараны құру қатесі";
+
+// Вспомогательные для поиска (SearchBar, FilterView)
+"search_placeholder" = "Атауы бойынша іздеу...";
+"search_button_text" = "Іздеу";
+"location_filter_title" = "Орналасқан жері";
+"location_filter_placeholder" = "Қала немесе аймақ";
+"tags_filter_title" = "Тегтер";
+"filters_title" = "Сүзгілер";
+"apply_filters_button" = "Сүзгілерді қолдану";
+"reset_filters_button" = "Бастапқы күйге келтіру";
+
+"no_events_created" = "Сіз әлі ешқандай іс-шара құрған жоқсыз.";
+"status" = "Мәртебе";
+"management" = "Басқару";
+"manage_applications" = "Өтінімдерді басқару";
+"close_event_button" = "Іс-шараны жабу";
+"no_applications_yet" = "Әзірге еріктілерден өтінім жоқ.";
+"applications_for" = "Өтінімдер";
+"applied_on" = "Жіберілген:";
+"accept_button" = "Қабылдау";
+"reject_button" = "Бас тарту";
+"Pending" = "Қаралуда";
+"Approved" = "Мақұлданды";
+"Rejected" = "Бас тартылды";
+"volunteer_data_private" = "Ерікті";
+
+"no_users_found" = "Пайдаланушылар табылмады.";
+"role_admin" = "Әкімші";
+"role_organizer" = "Ұйымдастырушы";
+"role_volunteer" = "Ерікті";
+"role_picker_title" = "Рөл:";
+"user_moderation" = "Пайдаланушыларды модерациялау";
+"user_moderation_title" = "Пайдаланушы модерациясының атауы";
+"event_moderation" = "Іс-шараларды модерациялау";
+"admin_panel_title" = "Әкімші панелі";
+
+"event_details" = "Іс-шараның егжей-тегжейі";
+"title_placeholder" = "Іс-шара атауы";
+"description_placeholder" = "Сипаттама, міндеттер, талаптар";
+"date_label" = "Өткізу күні";
+"location_placeholder" = "Өткізу орны";
+"volunteer_requirements" = "Еріктілерге қойылатын талаптар";
+"required_volunteers" = "Қажетті еріктілер саны";
+"create_event_title" = "Іс-шара құру";
+"create_button" = "Құру";
+
+"my_events" = "Менің іс шараларым";
+"browse_events_tab" = "Іздеу";
+"notifications_tab" = "Хабарламалар";
+"profile_tab" = "Менің парақшам";
+"volunteer_panel_title" = "Еріктілер Тақтасы";
+"all_users_title" = "Барлық қолданушылардың тізімі";
+"change_role_button" = "Рольді өзгерту";
+"role_cannot_be_changed" = "Роль өзгертілмейді";
+
+"logged_in_as" = "Ретінде кірді";
+"receive_notifications_toggle" = "Хабарламалар алу";
+"system_permission_status" = "Жүйелік рұқсаттар мәртебесі";
+"request_notifications_permission" = "Хабарламаға рұқсат сұрау";
+"send_test_notification" = "Тестілеу туралы хабарлама жіберу";
+"language_select_label" = "Тілді таңдаңыз";
+"volunteer_profile_title" = "Еріктілер парақшасы";
+"no_notifications_yet" = "Әзірге хабарландырулар жоқ";
+"recent_notifications" = "Соңғы хабарламалар";
+"organizer_profile_title" = "Организатор парақшасы";
+
+"manage_users" = "Пайдаланушыларды басқару";
+"view_statistics" = "Статистиканы қарау";
+
+/* Statistics */
+"statistics" = "Статистика";
+"user_statistics" = "Пайдаланушы статистикасы";
+"event_statistics" = "Іс шаралар статистикасы";
+"application_statistics" = "Өтінімдер статистикасы";
+"total_users" = "Барлық пайдаланушылар";
+"admins" = "Администраторлар";
+"organizers" = "Ұйымдастырушылар";
+"volunteers" = "Еріктілер";
+"total_events" = "Барлық оқиғалар";
+"total_applications" = "Барлық өтінімдер";
+"pending_applications" = "Күтудегі өтінімдер";
+"approved_applications" = "Мақұлданған өтінімдер";
+
+"NOTIFICATION_SETTINGS" = "ХАБАРЛАНДЫРУ ПАРАМЕТРЛЕРІ";
+"apply_for_event" = "Іс-шараға өтініш беру";
+
+"my_events" = "Менің іс-шараларым";
+"create_event" = "Жасау";
+"edit_event_title" = "Іс-шараны өңдеу";
+"save_button" = "Сақтау";
+"delete_button" = "Жою";
+"cancel_button" = "Болдырмау";
+"ok_button" = "OK";
+"retry_button" = "Қайталау";
+"edit_button" = "Өзгерту";
+
+"no_events_yet" = "Әзірге іс-шаралар жоқ";
+"create_first_event" = "Алғашқы іс-шараны жасаңыз";
+"loading_events" = "Іс-шаралар жүктелуде...";
+"event_updated_success" = "Іс-шара сәтті жаңартылды";
+"delete_event_confirmation" = "Іс-шараны жою";
+"delete_event_message" = "Сіз бұл іс-шараны жойғыңыз келетініне сенімдісіз бе? Бұл әрекетті болдырмау мүмкін емес.";
+
+"search_placeholder" = "Іс-шараларды іздеу...";
+"no_events_found" = "Іс-шаралар табылмады";
+"clear_filters" = "Сүзгілерді тазалау";
+"clear_all" = "Барлығын тазалау";
+
+"apply_filters_button" = "Сүзгілерді қолдану";
+"reset_filters_button" = "Қалпына келтіру";
+"close_button" = "Жабу";
+"filters_button" = "Сүзгілер";
+"filters_title" = "Сүзгілер";
+
+"location_filter_title" = "Орын";
+"location_filter_placeholder" = "Орынды енгізіңіз";
+"tags_filter_title" = "Санаттар";
+
+// Tags
+"General" = "Жалпы";
+"ecology" = "Экология";
+"children" = "Балалар";
+"sport" = "Спорт";
+"education" = "Білім";
+"health" = "Денсаулық";
+"culture" = "Мәдениет";
+
+"user_not_authenticated" = "Пайдаланушы авторизацияланбаған";
+
+"event_details_title" = "Оқиға туралы мәліметтер";
+"description_label" = "Сипаттама";
+"tags_label" = "Тегтер";
+"apply_button_text" = "Оқиғаға өтініш беру";
+"applied_pending_text" = "Өтінім берілді (Күтуде)";
+"processing_application" = "Өтінімді өңдеу...";
